@@ -6,7 +6,7 @@ if Gem.win_platform?
 		io.set_encoding(Encoding.default_external, Encoding.default_internal)
 	end
 end
-
+##
 answers = [
 	# Положительные
 	"БЕССПОРНО",
